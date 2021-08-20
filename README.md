@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Marcos Paulo
 
-I'm a Computer Science student at Federal University of Catalão. I have a passion for Machine Learn, Data Science and mobile applications, but at the moment I study website development.
+I'm a Computer Science student at Federal University of Catalão. I have a passion for Machine Learning, Data Science and mobile applications, but at the moment I study website development to have the basics.
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/marcos_paulo_r) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcospaulor/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcos_paulo_r/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/marcos.p.rodriguessilva)
 
