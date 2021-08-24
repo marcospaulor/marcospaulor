@@ -1,6 +1,6 @@
 ### Hi there 👋, Eu sou Marcos Paulo
 
-Sou estudante de Ciência da Computação na Universidade Federal de Catalão. Tenho paixão por Machine Learning, Data Science e aplicativos móveis, mas no momento estudo desenvolvimento web.
+Sou estudante de Ciência da Computação na Universidade Federal de Catalão. Entusiasta em Machine Learning, Data Science e aplicativos móveis, mas no momento estudo desenvolvimento web.
 
 ##
 
