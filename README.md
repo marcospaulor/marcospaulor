@@ -5,8 +5,8 @@ Sou estudante de Ciência da Computação na Universidade Federal de Catalão. T
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcospaulor&theme=vision-friendly-dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulor&layout=compact&theme=vision-friendly-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcospaulor&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulor&layout=compact&theme=dracula" />
 </div>
 
 
