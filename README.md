@@ -18,6 +18,7 @@ Sou estudante de Ciência da Computação na Universidade Federal de Catalão. E
   <img height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" />
   <img height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
   <img height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
