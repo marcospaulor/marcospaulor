@@ -10,7 +10,7 @@ Sou estudante de Ciência da Computação na Universidade Federal de Catalão. E
 </div>
 
 
-<div style="display: inline_block"></br>
+<div style="display: inline_block" align="center"></br>
   <img height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
   <img height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
   <img height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
@@ -26,7 +26,9 @@ Sou estudante de Ciência da Computação na Universidade Federal de Catalão. E
 
 ##
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/marcos_paulo_r) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcospaulor/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcos.paulo.r/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/marcos.p.rodriguessilva)
+<div style="display: inline_block" align="center">
+  [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/marcos_paulo_r) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcospaulor/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcos.paulo.r/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/marcos.p.rodriguessilva)
+</div>
 
 <p align="center"> Contador de curiosos / Curious counter </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/marcospaulor/count.svg" /></p>
