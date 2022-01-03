@@ -10,7 +10,7 @@ Sou estudante de Ciência da Computação na Universidade Federal de Catalão. E
 </div>
 
 
-<div style="display: inline_block" align="center"></br>
+<div style="display: inline_block" align="center" justify="center"></br>
   <img height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
   <img height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
   <img height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
