@@ -5,11 +5,10 @@ Entusiasta em:
 <ul>
   <li>Mobile Application</li>
   <li>Web Application</li>
-  <li>AI</li>
+  <li>Artificial Intelligence</li>
   <li>Machine Learning</li>
   <li>Data Science</li>
 </ul>
-Machine Learning, Data Science e aplicativos móveis, mas no momento estudo desenvolvimento web.
 
 ##
 
