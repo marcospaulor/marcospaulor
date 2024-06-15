@@ -1,72 +1,42 @@
-### Hi there 👋, Eu sou Marcos Paulo
+# marcospaulor 🚀
+> "We’ve Always Defined Ourselves By The Ability To Overcome The Impossible."
+> - Joseph Cooper
 
-Sou estudante de Ciência da Computação na Universidade Federal de Catalão. 
-Entusiasta em:
-<ul>
-  <li>Mobile Application</li>
-  <li>Web Application</li>
-  <li>Artificial Intelligence</li>
-  <li>Machine Learning</li>
-  <li>Data Science</li>
-</ul>
+## Sobre mim
 
-##
+Olá! Sou Marcos Paulo, bacharel em Ciência da Computação apaixonado por desenvolvimento de software e tecnologias inovadoras. Tenho interesse especial em Mobile Application, Web Application, Artificial Intelligence, Machine Learning e Data Science.
 
-<div style="display: inline_block" align ="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcospaulor&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulor&layout=compact&theme=dracula" />
-</div>
-![Snake animation](https://github.com/seu-usuário-aqui/marcospaulor/blob/output/github-contribution-grid-snake.svg)
+- 🌱 Atualmente estou aprimorando minhas habilidades em desenvolvimento web e mobile.
+- 💼 Meus objetivos incluem ter minha própria empresa de desenvolvimento de software e liderar equipes em projetos diversos de tecnologia.
 
+## Projetos Destacados
 
-<div style="display: inline_block" align="center"></br>
-  <img height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
-  <img height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
-  <img height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
-  <img height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" />
-  <img height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" />
-  <img height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
-  <img height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
-</div>
+- **UFCAT App** - Um aplicativo móvel desenvolvido em Flutter para a Universidade Federal de Catalão, facilitando o acesso aos serviços da instituição. [Ver no GitHub](https://github.com/marcospaulor/ufcat_app)
 
-##
+## Habilidades
 
-<!-- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/marcospaulor_) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcospaulor/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcos.paulo.r/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/marcos.p.rodriguessilva) -->
+- **Linguagens de Programação:** Python, JavaScript, Dart
+- **Tecnologias e Frameworks:** ReactJS, NextJS, Flutter
 
-<div style="display: inline_block" align ="center">
-  <a href="https://twitter.com/marcospaulor_">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/marcospaulor">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/marcos.paulo.r">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/marcos.p.rodriguessilva">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcospaulor&show_icons=true&rank_icon=github&theme=highcontrast)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulor&size_weight=0&count_weight=1&layout=compact&theme=highcontrast)
 
-</div>
+## Objetivos Pessoais
 
-<p align="center"> Contador de visitas </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/marcospaulor/count.svg" /></p>
+- 🏋️‍♂️ Manter uma rotina saudável com musculação regular.
+- 📚 Ampliar meu conhecimento através da leitura de diversos livros.
 
-<!--
-**marcospaulor/marcospaulor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Objetivos Futuros
 
-Here are some ideas to get you started:
+- 🌍 Aprender novos idiomas para facilitar a comunicação global.
+- ✈️ Viajar pelo mundo para conhecer diferentes culturas e expandir horizontes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+
+- 📧 E-mail: dev.silva.marcos@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/marcospaulor](https://www.linkedin.com/in/marcospaulor)
+- 🐦 Twitter: [@marcospaulor_](https://twitter.com/marcospaulor_)
+
+---
+
+Se você estiver interessado em colaborar ou discutir sobre tecnologia, não hesite em entrar em contato!
