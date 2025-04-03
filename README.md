@@ -19,7 +19,7 @@ Minha jornada começou com um Técnico em Informática pelo IF Goiano, onde desc
 ## 🚀 Projetos Destacados
 
 - **UFCAT Serviços** - Um aplicativo móvel em Flutter com Firebase que centraliza serviços da UFCAT, como notícias, eventos e cardápios do Restaurante Universitário. [Ver no GitHub](https://github.com/marcospaulor/ufcat_app)  
-- **Sistema de Gerenciamento de Cardápio** - Desenvolvido em Next.js com TailwindCSS e Firebase, integrado ao app UFCAT Serviços. Este projeto foi meu TCC, focado em eficiência e usabilidade.
+- **Sistema de Gerenciamento de Cardápio** - Desenvolvido em Next.js com TailwindCSS e Firebase, integrado ao app UFCAT Serviços. Este projeto foi meu TCC, focado em eficiência e usabilidade.[Ver no GitHub](https://github.com/marcospaulor/ru-ufcat-menu)
 
 ---
 
