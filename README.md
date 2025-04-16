@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <a href="README_pt.md">
+  <a href="README_pt-BR.md">
     <img src="https://img.shields.io/badge/🌐 Versão em Português-005dff?style=for-the-badge&logo=googletranslate&logoColor=white" />
   </a>
   <br>
