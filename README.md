@@ -59,7 +59,7 @@ A modern web dashboard built with Next.js and TailwindCSS, integrated with Fireb
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=marcospaulor&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulor&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulor&layout=compact&theme=radical&exclude_repo=multi-thresholder-otsu,apple-identifier-segmentation">
 </p>
 
 ---
