@@ -1,3 +1,5 @@
+<!-- Top Wave -->
+<img src="wave-top.svg" alt="Wave Top" width="100%">
 <!-- assets como CSS inline são usados pois GitHub não permite arquivos externos -->
 
 <h1 align="center" style="font-size: 2.8rem; color: #005dff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
@@ -87,3 +89,5 @@ Dashboard moderno criado com Next.js e TailwindCSS, integrado ao Firebase para a
 <p align="center" style="font-size: 0.9rem; color: #888;">
   Criado com ❤ para inovação e impacto.
 </p>
+<!-- Bottom Wave -->
+<img src="wave-bottom.svg" alt="Wave Bottom" width="100%">
