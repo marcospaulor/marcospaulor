@@ -40,9 +40,7 @@ I'm experienced in <strong>Flutter</strong>, <strong>Next.js</strong>, and <stro
 ## 🛠️ Technologies I Use
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,firebase,js,java,tailwind,git,linux&perline=5" alt="Tech stack" />
-
+<img src="https://skillicons.dev/icons?i=elysia,nestjs,nextjs,ts,js,flutter,dart,java,py,postgres,firebase,supabase,tailwind,git,postman,linux&perline=9" alt="Tech stack" />
 </div>
 
 ---
