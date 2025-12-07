@@ -40,9 +40,7 @@ Tenho experiência com <strong>Flutter</strong>, <strong>Next.js</strong> e <str
 ## 🛠️ Tecnologias que Utilizo
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,firebase,js,java,tailwind,git,linux&perline=5" alt="Tech stack" />
-
+<img src="https://skillicons.dev/icons?i=elysia,nestjs,nextjs,ts,js,flutter,dart,java,py,postgres,firebase,supabase,tailwind,git,postman,linux&perline=9" alt="Tech stack" />
 </div>
 
 ---
