@@ -34,12 +34,13 @@ On the side: a **personal finance SaaS** in TypeScript.
 
 ## Stack
 
-| Area             | Technologies                                                                                                                                                                          |
-| :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Mobile**       | <img src="https://skillicons.dev/icons?i=flutter,dart" height="36" alt="Flutter, Dart">                                                                           |
-| **Web**          | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="36" alt="Next.js, React, TypeScript, Tailwind">                                                            |
-| **Backend**      | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,py,fastapi,java" height="36" alt="NestJS, Node.js, Python, FastAPI, Java">                                                                      |
-| **Data & Infra** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase,aws,docker,git,linux" height="36" alt="MongoDB, PostgreSQL, Firebase, Supabase, AWS, Docker, Git, Linux"> |
+| Area | Technologies |
+| :-- | :-- |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart" height="40" alt="Flutter, Dart"> |
+| **Web** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="40" alt="Next.js, React, TypeScript, Tailwind"> <img src="https://go-skill-icons.vercel.app/api/icons?i=tanstack,radix" height="40" alt="TanStack, Radix UI"> <img src="icons/zod.svg" height="40" alt="Zod"> <img src="icons/react-hook-form.svg" height="40" alt="React Hook Form"> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,py,fastapi,java" height="40" alt="NestJS, Node.js, Python, FastAPI, Java"> <img src="https://go-skill-icons.vercel.app/api/icons?i=hono,betterauth,swagger" height="40" alt="Hono, Better Auth, Swagger"> <img src="icons/passport.svg" height="40" alt="Passport"> |
+| **Data & Infra** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase,aws,docker" height="40" alt="MongoDB, PostgreSQL, Firebase, Supabase, AWS, Docker"> <img src="https://go-skill-icons.vercel.app/api/icons?i=mongoose,drizzle" height="40" alt="Mongoose, Drizzle"> |
+| **Testing & tooling** | <img src="https://skillicons.dev/icons?i=jest,sentry,git,postman,linux" height="40" alt="Jest, Sentry, Git, Postman, Linux"> <img src="https://go-skill-icons.vercel.app/api/icons?i=turborepo,biome" height="40" alt="Turborepo, Biome"> |
 
 ## Open source projects
 
@@ -76,13 +77,5 @@ On the side: a **personal finance SaaS** in TypeScript.
 - 🧭 Grow as a leader in tech and innovation.
 - 🚀 Start my own tech company.
 - 💪 Stay consistent with training and well-being.
-
-## Let's talk
-
-<p align="center">
-  <a href="mailto:dev.silva.marcos@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/marcospaulor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/marcospaulor_"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
-</p>
 
 <img src="wave-bottom.svg" width="100%" alt="">

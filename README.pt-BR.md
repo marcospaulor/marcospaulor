@@ -36,10 +36,11 @@ Nas horas vagas: um **SaaS de finanças pessoais** em TypeScript.
 
 | Área | Tecnologias |
 | :-- | :-- |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart" height="36" alt="Flutter, Dart"> |
-| **Web** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="36" alt="Next.js, React, TypeScript, Tailwind"> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,py,fastapi,java" height="36" alt="NestJS, Node.js, Python, FastAPI, Java"> |
-| **Dados & Infra** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase,aws,docker,git,linux" height="36" alt="MongoDB, PostgreSQL, Firebase, Supabase, AWS, Docker, Git, Linux"> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart" height="40" alt="Flutter, Dart"> |
+| **Web** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="40" alt="Next.js, React, TypeScript, Tailwind"> <img src="https://go-skill-icons.vercel.app/api/icons?i=tanstack,radix" height="40" alt="TanStack, Radix UI"> <img src="icons/zod.svg" height="40" alt="Zod"> <img src="icons/react-hook-form.svg" height="40" alt="React Hook Form"> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,py,fastapi,java" height="40" alt="NestJS, Node.js, Python, FastAPI, Java"> <img src="https://go-skill-icons.vercel.app/api/icons?i=hono,betterauth,swagger" height="40" alt="Hono, Better Auth, Swagger"> <img src="icons/passport.svg" height="40" alt="Passport"> |
+| **Dados & Infra** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase,aws,docker" height="40" alt="MongoDB, PostgreSQL, Firebase, Supabase, AWS, Docker"> <img src="https://go-skill-icons.vercel.app/api/icons?i=mongoose,drizzle" height="40" alt="Mongoose, Drizzle"> |
+| **Testes & ferramentas** | <img src="https://skillicons.dev/icons?i=jest,sentry,git,postman,linux" height="40" alt="Jest, Sentry, Git, Postman, Linux"> <img src="https://go-skill-icons.vercel.app/api/icons?i=turborepo,biome" height="40" alt="Turborepo, Biome"> |
 
 ## Projetos open source
 
