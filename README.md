@@ -17,41 +17,20 @@
 
 ## About
 
-**Fullstack Software Developer at SIBRA TECH**, where I build SaaS products and internal platforms end to end — from the event-driven backend to the dashboard the client opens every morning.
+Fullstack Software Developer at **SIBRA TECH**, building SaaS products and internal platforms end to end. Computer Science graduate from **UFCAT** and Master's student at **UFSCar**.
 
-On the academic side, I'm a Computer Science graduate from **UFCAT** and a Master's student at **UFSCar**, and I keep working close to research through the degrees I'm building there.
-
-Most of my work has a real person waiting on the other side. I care about systems that stay simple as they grow, and about shipping instead of polishing forever.
-
-Outside the editor: training, reading, and slowly building toward my own tech company.
+I like systems that stay simple as they grow, and shipping over polishing forever.
 
 ## What I'm working on
 
-Day to day I build **SaaS products and internal platforms** — event-driven backends, admin dashboards and mobile apps.
+- **Backend** — NestJS with CQRS and a layered architecture, Hono for lighter services, MongoDB + Mongoose and PostgreSQL + Drizzle, JWT/Passport and Better Auth, OpenAPI docs.
+- **Async** — AWS SQS producers and consumers, scheduled jobs, file processing workers.
+- **Python** — FastAPI APIs and standalone SQS consumers, Pydantic, boto3.
+- **Frontend** — Next.js and React with TanStack Query, Radix UI, React Hook Form + Zod, Tailwind.
+- **Mobile** — Flutter, from the UI to the store release.
+- **Infra & quality** — Docker, AWS, Supabase, Turborepo monorepos, Jest and pytest, Sentry.
 
-**Backend (Node / TypeScript)**
-- **NestJS** in a layered `domain` / `application` / `infrastructure` architecture, with **CQRS** for command and query separation.
-- **MongoDB + Mongoose** (soft delete, lean virtuals) and **PostgreSQL 16 + Drizzle ORM** with type-safe schemas and migrations, plus **Supabase** on the products that run on it.
-- **Authentication & security** — JWT and HTTP strategies with Passport, custom guards and decorators, Better Auth on newer services, Helmet, cookie/session handling and crypto-js.
-- **Async & scheduling** — AWS SQS producers and consumers, cron jobs with `@nestjs/schedule`, file processing workers.
-- **API contracts** — OpenAPI/Swagger and Scalar docs, validation with class-validator, Joi and Zod, global interceptors, pipes and exception filters.
-- **Hono** for lighter services, with `@hono/zod-openapi` generating the spec straight from the schemas.
-- **Quality & observability** — Jest unit and e2e suites, Sentry, structured logs with Winston, SendGrid for transactional email.
-
-**Backend (Python)**
-- **FastAPI + Uvicorn** APIs and standalone **SQS consumers**, packaged as a monorepo of apps.
-- Pydantic Settings for typed config, boto3 for AWS, pytest for tests.
-
-**Frontend**
-- Next.js and React with TanStack Query, TanStack Router, Radix UI, React Hook Form + Zod, Tailwind.
-
-**Mobile**
-- Flutter for cross-platform apps, from the UI to the store release.
-
-**Infra & tooling**
-- Docker and docker-compose, AWS, Supabase, Turborepo monorepos, Biome, Lefthook, conventional commits.
-
-On the side, I'm building a **personal finance SaaS** in TypeScript.
+On the side: a **personal finance SaaS** in TypeScript.
 
 ## Stack
 
