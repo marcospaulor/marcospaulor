@@ -26,7 +26,7 @@ Gosto de sistemas que continuam simples enquanto crescem, e de entregar em vez d
 - **Backend** — NestJS com CQRS e arquitetura em camadas, Hono para serviços mais leves, MongoDB + Mongoose e PostgreSQL + Drizzle, JWT/Passport e Better Auth, documentação OpenAPI.
 - **Assíncrono** — produtores e consumidores AWS SQS, jobs agendados, workers de processamento de arquivos.
 - **Python** — APIs em FastAPI e consumidores SQS independentes, Pydantic, boto3.
-- **Frontend** — Next.js e React com TanStack Query, Radix UI, React Hook Form + Zod, Tailwind.
+- **Frontend** — React com Next.js ou TanStack Start, mais TanStack Query e Router, Radix UI, React Hook Form + Zod, Tailwind.
 - **Mobile** — Flutter, da UI à publicação nas lojas.
 - **Infra & qualidade** — Docker, AWS, Supabase, monorepos com Turborepo, Jest e pytest, Sentry.
 

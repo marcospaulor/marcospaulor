@@ -26,7 +26,7 @@ I like systems that stay simple as they grow, and shipping over polishing foreve
 - **Backend** — NestJS with CQRS and a layered architecture, Hono for lighter services, MongoDB + Mongoose and PostgreSQL + Drizzle, JWT/Passport and Better Auth, OpenAPI docs.
 - **Async** — AWS SQS producers and consumers, scheduled jobs, file processing workers.
 - **Python** — FastAPI APIs and standalone SQS consumers, Pydantic, boto3.
-- **Frontend** — Next.js and React with TanStack Query, Radix UI, React Hook Form + Zod, Tailwind.
+- **Frontend** — React with Next.js or TanStack Start, plus TanStack Query and Router, Radix UI, React Hook Form + Zod, Tailwind.
 - **Mobile** — Flutter, from the UI to the store release.
 - **Infra & quality** — Docker, AWS, Supabase, Turborepo monorepos, Jest and pytest, Sentry.
 
