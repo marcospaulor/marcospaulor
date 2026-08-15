@@ -46,7 +46,7 @@ No dia a dia construo **produtos SaaS e plataformas internas** — backends orie
 - Next.js e React com TanStack Query, TanStack Router, Radix UI, React Hook Form + Zod, Tailwind.
 
 **Mobile**
-- Flutter, e React Native com Solito + NativeWind para compartilhar código com a web.
+- Flutter para apps multiplataforma, da UI à publicação nas lojas.
 
 **Infra & tooling**
 - Docker e docker-compose, AWS, Supabase, monorepos com Turborepo, Biome, Lefthook, conventional commits.
@@ -57,7 +57,7 @@ Nas horas vagas, desenvolvo um **SaaS de finanças pessoais** em TypeScript.
 
 | Área | Tecnologias |
 | :-- | :-- |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart,react" height="36" alt="Flutter, Dart, React Native"> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart" height="36" alt="Flutter, Dart"> |
 | **Web** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="36" alt="Next.js, React, TypeScript, Tailwind"> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,py,fastapi,java" height="36" alt="NestJS, Node.js, Python, FastAPI, Java"> |
 | **Dados & Infra** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase,aws,docker,git,linux" height="36" alt="MongoDB, PostgreSQL, Firebase, Supabase, AWS, Docker, Git, Linux"> |

@@ -46,7 +46,7 @@ Day to day I build **SaaS products and internal platforms** — event-driven bac
 - Next.js and React with TanStack Query, TanStack Router, Radix UI, React Hook Form + Zod, Tailwind.
 
 **Mobile**
-- Flutter, and React Native with Solito + NativeWind for code shared with the web.
+- Flutter for cross-platform apps, from the UI to the store release.
 
 **Infra & tooling**
 - Docker and docker-compose, AWS, Supabase, Turborepo monorepos, Biome, Lefthook, conventional commits.
@@ -57,7 +57,7 @@ On the side, I'm building a **personal finance SaaS** in TypeScript.
 
 | Area             | Technologies                                                                                                                                                                          |
 | :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Mobile**       | <img src="https://skillicons.dev/icons?i=flutter,dart,react" height="36" alt="Flutter, Dart, React Native">                                                                           |
+| **Mobile**       | <img src="https://skillicons.dev/icons?i=flutter,dart" height="36" alt="Flutter, Dart">                                                                           |
 | **Web**          | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="36" alt="Next.js, React, TypeScript, Tailwind">                                                            |
 | **Backend**      | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,py,fastapi,java" height="36" alt="NestJS, Node.js, Python, FastAPI, Java">                                                                      |
 | **Data & Infra** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase,aws,docker,git,linux" height="36" alt="MongoDB, PostgreSQL, Firebase, Supabase, AWS, Docker, Git, Linux"> |
