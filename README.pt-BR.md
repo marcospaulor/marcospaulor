@@ -72,18 +72,10 @@ Nas horas vagas: um **SaaS de finanças pessoais** em TypeScript.
 
 ## Objetivos
 
-- 🏗️ Entregar produtos que resolvem problemas reais, não demos.
+- 🏗️ Entregar produtos que resolvem problemas reais.
 - 🎓 Concluir o mestrado e publicar a pesquisa.
 - 🧭 Evoluir como líder em tecnologia e inovação.
 - 🚀 Empreender e ter minha própria empresa.
 - 💪 Manter constância nos treinos e no bem-estar.
-
-## Vamos conversar
-
-<p align="center">
-  <a href="mailto:dev.silva.marcos@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <a href="https://linkedin.com/in/marcospaulor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/marcospaulor_"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
-</p>
 
 <img src="wave-bottom.svg" width="100%" alt="">

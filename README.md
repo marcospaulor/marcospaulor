@@ -48,6 +48,7 @@ On the side: a **personal finance SaaS** in TypeScript.
 | ⭐ [**UFCAT Serviços**](https://github.com/marcospaulor/ufcat_app)              | Flutter · Firebase            | Cross-platform app centralizing UFCAT news, events, public notices and cafeteria menus for the whole community. |
 | 🍽️ [**RU Menu Manager**](https://github.com/marcospaulor/ru-ufcat-menu)         | Next.js · Tailwind · Firebase | Dashboard the RU nutritionist uses to publish the cafeteria menu straight into the mobile app.                  |
 | 🕸️ [**UFCAT Web Scraper**](https://github.com/marcospaulor/webscrap-site-ufcat) | Python                        | Collects news, events and public notices from the UFCAT website to feed the app.                                |
+| 💼 [**Portfolio**](https://github.com/marcospaulor/portfolio)                    | Next.js · TypeScript          | Projects, work and academic path in one place.                                                                  |
 
 ## Stats
 
