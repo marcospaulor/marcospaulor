@@ -1,7 +1,7 @@
 <img src="wave-top.svg" width="100%" alt="">
 
 <h1 align="center">Marcos Paulo Rodrigues</h1>
-<p align="center">Desenvolvedor de Software Fullstack @ SIBRA TECH · Mestrando na UFSCar</p>
+<p align="center">Desenvolvedor de Software Fullstack @ SIBRA Tech · Mestrando na UFSCar</p>
 
 <p align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/English-005dff?style=flat-square&logo=googletranslate&logoColor=white" alt="English version"></a>
@@ -17,7 +17,7 @@
 
 ## Sobre
 
-Desenvolvedor de Software Fullstack na **SIBRA TECH**, construindo produtos SaaS e plataformas internas de ponta a ponta. Graduado em Ciência da Computação pela **UFCAT** e mestrando na **UFSCar**.
+Desenvolvedor de Software Fullstack na **SIBRA Tech**, construindo produtos SaaS e plataformas internas de ponta a ponta. Graduado em Ciência da Computação pela **UFCAT** e mestrando na **UFSCar**.
 
 Gosto de sistemas que continuam simples enquanto crescem, e de entregar em vez de polir para sempre.
 
@@ -25,10 +25,9 @@ Gosto de sistemas que continuam simples enquanto crescem, e de entregar em vez d
 
 - **Backend** — NestJS com CQRS e arquitetura em camadas, Hono para serviços mais leves, MongoDB + Mongoose e PostgreSQL + Drizzle, JWT/Passport e Better Auth, documentação OpenAPI.
 - **Assíncrono** — produtores e consumidores AWS SQS, jobs agendados, workers de processamento de arquivos.
-- **Python** — APIs em FastAPI e consumidores SQS independentes, Pydantic, boto3.
 - **Frontend** — React com Next.js ou TanStack Start, mais TanStack Query e Router, Radix UI, React Hook Form + Zod, Tailwind.
 - **Mobile** — Flutter, da UI à publicação nas lojas.
-- **Infra & qualidade** — Docker, AWS, Supabase, monorepos com Turborepo, Jest e pytest, Sentry.
+- **Infra & qualidade** — Docker, AWS, Supabase, monorepos com Turborepo, Jest, Sentry.
 
 Nas horas vagas: um **SaaS de finanças pessoais** em TypeScript.
 
@@ -38,7 +37,7 @@ Nas horas vagas: um **SaaS de finanças pessoais** em TypeScript.
 | :-- | :-- |
 | **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart" height="40" alt="Flutter, Dart"> |
 | **Web** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="40" alt="Next.js, React, TypeScript, Tailwind"> <img src="https://go-skill-icons.vercel.app/api/icons?i=tanstack,radix" height="40" alt="TanStack, Radix UI"> <img src="icons/zod.svg" height="40" alt="Zod"> <img src="icons/react-hook-form.svg" height="40" alt="React Hook Form"> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,py,fastapi,java" height="40" alt="NestJS, Node.js, Python, FastAPI, Java"> <img src="https://go-skill-icons.vercel.app/api/icons?i=hono,betterauth,swagger" height="40" alt="Hono, Better Auth, Swagger"> <img src="icons/passport.svg" height="40" alt="Passport"> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,java" height="40" alt="NestJS, Node.js, Java"> <img src="https://go-skill-icons.vercel.app/api/icons?i=hono,betterauth,swagger" height="40" alt="Hono, Better Auth, Swagger"> <img src="icons/passport.svg" height="40" alt="Passport"> |
 | **Dados & Infra** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase,aws,docker" height="40" alt="MongoDB, PostgreSQL, Firebase, Supabase, AWS, Docker"> <img src="https://go-skill-icons.vercel.app/api/icons?i=mongoose,drizzle" height="40" alt="Mongoose, Drizzle"> |
 | **Testes & ferramentas** | <img src="https://skillicons.dev/icons?i=jest,sentry,git,postman,linux" height="40" alt="Jest, Sentry, Git, Postman, Linux"> <img src="https://go-skill-icons.vercel.app/api/icons?i=turborepo,biome" height="40" alt="Turborepo, Biome"> |
 
